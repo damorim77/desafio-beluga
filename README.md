@@ -5,6 +5,7 @@ Nesse repositório está armazenada a implementação em R do algoritmo de previ
 Arquivos:
 - Analise.R - analise e algoritmo de implementação
 - Analise.xlsx - passo a passo da análise realizada, com interpretações e experimentos realizados
+- predict.csv - arquivo com as predições
 
 
 Processo de análise realizado;
